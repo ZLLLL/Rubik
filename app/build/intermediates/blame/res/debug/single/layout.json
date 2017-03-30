@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\reference_code\\Rubik\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\reference_code\\Rubik\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\reference_code\\Rubik\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\reference_code\\Rubik\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    }
+]

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_quit">退出</string>
+    <string name="action_settings">设置</string>
+    <string name="app_name">魔方</string>
+    <string name="button_down">向下</string>
+    <string name="button_left">向左</string>
+    <string name="button_next">下一步</string>
+    <string name="button_pause">暂停</string>
+    <string name="button_photograph">拍照</string>
+    <string name="button_play">玩魔方</string>
+    <string name="button_previous">上一步</string>
+    <string name="button_recover">恢复魔方</string>
+    <string name="button_reset">重置魔方</string>
+    <string name="button_restore">还原</string>
+    <string name="button_right">向右</string>
+    <string name="button_start">开始</string>
+    <string name="button_up">向上</string>
+    <string name="current_step_count">当前步数：</string>
+    <string name="get_photo_failed">没有获取到拍照的数据</string>
+    <string name="get_sharedpreference_failed">还获取到有效的魔方，重置魔方失败</string>
+    <string name="restore_rubik_completed">魔方已经还原成功</string>
+    <string name="restore_rubik_failed">未找到魔方的还原算法，请确定魔方是否正确</string>
+    <string name="rubik_is_in_initialization">魔方已经回到初始状态</string>
+    <string name="string_take_photo_error">拍照生成的魔方错误，请重新拍照</string>
+    <string name="text_choose">请选择要进行的操作：</string>
+    <string name="total_step_count">总步数：</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
